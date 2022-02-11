@@ -5,5 +5,5 @@ import (
 )
 
 func GetMessage() string {
-	return emoji.Sprintf("Hello  :world_map:!")
+	return emoji.Sprintf("Hello :world_map:!")
 }
